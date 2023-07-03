@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "GAGAN",
+      "age": "24",
+      "place": "Mysore",
+      "batch_name": "WEB-24",
+      "profession": "FSD",
+      "id": 1
+    },
+    {
+      "name": "Mario",
+      "age": "10",
+      "place": "Kingdom",
+      "batch_name": "WEB-21",
+      "profession": "Frontend",
+      "id": 2
+    },
+    {
+      "name": "Naruto",
+      "age": "18",
+      "place": "Leaf",
+      "batch_name": "WEB-22",
+      "profession": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Lufi",
+      "age": "18",
+      "place": "SEA",
+      "batch_name": "WEB-23",
+      "profession": "Student ",
+      "id": 4
+    },
+    {
+      "name": "Zoro",
+      "age": "19",
+      "place": "land",
+      "batch_name": "WEB-20",
+      "profession": "Frontend",
+      "id": 5
+    },
+    {
+      "name": "Nami",
+      "age": "16",
+      "place": "Land",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 6
+    },
+    {
+      "name": "SASUKE",
+      "age": "18",
+      "place": "Leaf",
+      "batch_name": "WEB-21",
+      "profession": "FSD",
+      "id": 7
+    },
+    {
+      "name": "Itachi",
+      "age": "20",
+      "place": "Leaf",
+      "batch_name": "WEB-20",
+      "profession": "Student ",
+      "id": 8
+    },
+    {
+      "name": "Tsunade",
+      "age": "50",
+      "place": "Leaf",
+      "batch_name": "WEB-20",
+      "profession": "Backend",
+      "id": 9
+    }
+  ]
+}
